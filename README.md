@@ -1,1 +1,1 @@
-# -stego
+# Ástego
